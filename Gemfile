@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'libv8-node', '~> 20.12.1'
     gem 'classifier-reborn'
     gem 'jekyll'
     gem 'jekyll-archives'
