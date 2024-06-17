@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Master of Science, <a href='https://ece.northeastern.edu/'>Electrical and Computer Engineering @ NEU Boston</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first year Master's in Computer Engineering Candidate at New York University. Prior to this, I obtained my Bachelor's degree in Electronics and Telecommunication Engineering from College of Engineering Pune. 
+I am a first year MS in Electrical and Computer Engineering Candidate at Northeastern University. Prior to this, I obtained my Bachelor's degree in Electronics and Telecommunication Engineering from College of Engineering Pune. 
 
 I am a Qiskit Advocate and have been actively involved in quantum computing since the start of my undergraduate studies. Over the years, I have dedicated myself to this field and gained substantial experience in quantum machine learning, tensor networks, and quantum simulations.
 

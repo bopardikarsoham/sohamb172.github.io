@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-02 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I will start my MS in Electrical and Computer Engineering at Northeastern University, Boston in Fall 2024. I’m supported by a 30% Tuition Scholarship. :smile:
