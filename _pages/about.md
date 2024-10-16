@@ -2,7 +2,11 @@
 layout: about
 title: about
 permalink: /
+<<<<<<< HEAD
 subtitle: Master of Science, <a href='https://ece.northeastern.edu/'>Electrical and Computer Engineering @ NEU Boston</a>
+=======
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+>>>>>>> 421bdf860bb24a052480b99109384361ea7dc73b
 
 profile:
   align: right
